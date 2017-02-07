@@ -1,0 +1,14 @@
+I:\Work\Projects\CardanoCode\CardanoCode\bin\Debug\CardanoCode.exe.config
+I:\Work\Projects\CardanoCode\CardanoCode\bin\Debug\CardanoCode.exe
+I:\Work\Projects\CardanoCode\CardanoCode\bin\Debug\CardanoCode.pdb
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\MainWindow.g.cs
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\App.g.cs
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode_MarkupCompile.cache
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode_MarkupCompile.lref
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\MainWindow.baml
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.g.resources
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.Properties.Resources.resources
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.csproj.GenerateResource.Cache
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.exe
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.pdb
+I:\Work\Projects\CardanoCode\CardanoCode\obj\Debug\CardanoCode.csprojResolveAssemblyReference.cache
